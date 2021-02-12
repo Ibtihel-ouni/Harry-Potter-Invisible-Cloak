@@ -4,7 +4,9 @@
 This childhood fantasy has come true ! Thanks to `Python` and `OpenCV`. 
 
 
-![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/58151963/93018173-b149fd00-f5c5-11ea-8236-3d19c054bd08.gif)
+<p align="center"> 
+  <img  src="https://user-images.githubusercontent.com/58151963/93018173-b149fd00-f5c5-11ea-8236-3d19c054bd08.gif" />
+</p>
 
  If you are a Harry Potter fan like me, you would know what an "Invisibility Cloak" is : it’s the cloak which Harry Potter uses to become invisible.
 obviously it is not real ! — it’s all graphics trickery.
